@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @vadimgrig (Vadim)
+- 🌱 I’m currently learning JavaScript
